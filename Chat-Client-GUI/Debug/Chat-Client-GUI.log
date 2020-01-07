@@ -1,0 +1,6 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Mai Nhan\source\repos\Chat-Client-GUI\Chat-Client-GUI\CppCLR_WinformsProjekt.cpp(1): warning C4603: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\Mai Nhan\source\repos\Chat-Client-GUI\Chat-Client-GUI\CppCLR_WinformsProjekt.cpp(1): message : Add macro to precompiled header instead of defining here
+C:\Users\Mai Nhan\source\repos\Chat-Client-GUI\Chat-Client-GUI\CppCLR_WinformsProjekt.cpp(2): message : use of precompiled header
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Chat-Client-GUI.vcxproj -> C:\Users\Mai Nhan\source\repos\Chat-Client-GUI\Debug\Chat-Client-GUI.exe
